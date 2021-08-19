@@ -34,7 +34,7 @@
 					"videoType": "HLS",
 					"url": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/palestinian_satellite_channel/hls1/palestinian_satellite_channel.m3u8"
 				}],
-				"duration": 12345
+				"duration": 86400
 			},
 			"genres": ["news"],
 			"tags": ["live"],
@@ -54,7 +54,7 @@
 					"videoType": "HLS",
 					"url": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/sudan_tv/hls1/sudan_tv.m3u8"
 				}],
-				"duration": 12345
+				"duration": 86400
 			},
 			"genres": ["news"],
 			"tags": ["live"],
@@ -74,7 +74,7 @@
 					"videoType": "HLS",
 					"url": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/oman_tv/hls1/oman_tv.m3u8"
 				}],
-				"duration": 12345
+				"duration": 86400
 			},
 			"genres": ["news"],
 			"tags": ["live"],
@@ -94,7 +94,7 @@
 					"videoType": "HLS",
 					"url": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8"
 				}],
-				"duration": 12345
+				"duration": 86400
 			},
 			"genres": ["news"],
 			"tags": ["live"],
@@ -114,7 +114,7 @@
 					"videoType": "HLS",
 					"url": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8"
 				}],
-				"duration": 12345
+				"duration": 86400
 			},
 			"genres": ["news"],
 			"tags": ["live"],
@@ -134,7 +134,7 @@
 					"videoType": "HLS",
 					"url": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8"
 				}],
-				"duration": 12345
+				"duration": 86400
 			},
 			"genres": ["news"],
 			"tags": ["live"],
