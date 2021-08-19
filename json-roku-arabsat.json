@@ -61,7 +61,87 @@
 			"thumbnail": "https://blog.roku.com/developer/files/2016/09/thumbnail.png",
 			"releaseDate": "2021-08-01",
 			"shortDescription": "Sudan TV: Watch live!",
-			"longDescription": "Sudan TV programming includes news, prayers, Qur'an recitation and a variety of entertainment."
+			"longDescription": "Sudan TV programming includes news, prayers, Quran recitation and a variety of entertainment."
+		},
+
+		{
+			"id": "arabsat-channel03",
+			"title": "Oman TV",
+			"content": {
+				"dateAdded": "2021-08-01T22:22:00+00:00",
+				"videos": [{
+					"quality": "SD",
+					"videoType": "HLS",
+					"url": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/oman_tv/hls1/oman_tv.m3u8"
+				}],
+				"duration": 12345
+			},
+			"genres": ["news"],
+			"tags": ["live"],
+			"thumbnail": "https://blog.roku.com/developer/files/2016/09/thumbnail.png",
+			"releaseDate": "2021-08-01",
+			"shortDescription": "Oman TV: Watch live!",
+			"longDescription": "Oman TV is the national television channel in Sultanate of Oman broadcasting from the city of Muscat."
+		},
+
+		{
+			"id": "arabsat-channel04",
+			"title": "Saudi TV 1 (KSA1)",
+			"content": {
+				"dateAdded": "2021-08-01T22:22:00+00:00",
+				"videos": [{
+					"quality": "SD",
+					"videoType": "HLS",
+					"url": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8"
+				}],
+				"duration": 12345
+			},
+			"genres": ["news"],
+			"tags": ["live"],
+			"thumbnail": "https://blog.roku.com/developer/files/2016/09/thumbnail.png",
+			"releaseDate": "2021-08-01",
+			"shortDescription": "Saudi TV 1: Watch live!",
+			"longDescription": "Saudi TV Channel 1 (KSA1) offers cultural, political, and economic shows and runs religious programs."
+		},
+
+		{
+			"id": "arabsat-channel05",
+			"title": "Saudi Quran TV",
+			"content": {
+				"dateAdded": "2021-08-01T22:22:00+00:00",
+				"videos": [{
+					"quality": "SD",
+					"videoType": "HLS",
+					"url": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8"
+				}],
+				"duration": 12345
+			},
+			"genres": ["news"],
+			"tags": ["live"],
+			"thumbnail": "https://blog.roku.com/developer/files/2016/09/thumbnail.png",
+			"releaseDate": "2021-08-01",
+			"shortDescription": "Saudi Quran TV: Watch live!",
+			"longDescription": "Saudi Quran TV is state run and administered by the Ministry of Culture and Information."
+		},
+
+		{
+			"id": "arabsat-channel06",
+			"title": "Saudi Sunnah Channel",
+			"content": {
+				"dateAdded": "2021-08-01T22:22:00+00:00",
+				"videos": [{
+					"quality": "SD",
+					"videoType": "HLS",
+					"url": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8"
+				}],
+				"duration": 12345
+			},
+			"genres": ["news"],
+			"tags": ["live"],
+			"thumbnail": "https://blog.roku.com/developer/files/2016/09/thumbnail.png",
+			"releaseDate": "2021-08-01",
+			"shortDescription": "Saudi Sunnah Channel: Watch live!",
+			"longDescription": "Saudi Sunnah Channel provides live webcam scenes of Medina."
 		}
 
 	]
