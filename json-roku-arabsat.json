@@ -1,0 +1,68 @@
+{
+	"providerName": "Ababsat",
+	"lastUpdated" : "2021-08-19T22:22:22+00:00",
+	"language"    : "en-US",
+	"movies": [
+
+	{
+		"id"   : "arabsat-tve-promoclip",
+		"title": "Arabsat TV Everywhere Promo Clip",
+		"content": {
+			"dateAdded": "2021-08-01T22:22:00+00:00",
+			"videos": [{
+				"quality"  : "HD",
+				"videoType": "MP4",
+				"url"      : "http://www.mesbouquets.tv/static/media/promo-Arabsat-EN.mp4"
+			}],
+			"duration": 15
+		},
+		"genres"          : ["special"],
+		"tags"            : ["promo"],
+		"thumbnail"       : "https://blog.roku.com/developer/files/2016/09/thumbnail.png",
+		"releaseDate"     : "2021-08-01",
+		"shortDescription": "Discover Arabsat TV Everywhere",
+		"longDescription" : "Thanks to Arabsat TV Everywhere, you can stay in touch with TV channels from the arabic world while you are abroad."
+	},
+	
+	{
+		"id"   : "arabsat-channel01",
+		"title": "Palestine TV",
+		"content": {
+			"dateAdded": "2021-08-01T22:22:00+00:00",
+			"videos": [{
+				"quality"  : "HD",
+				"videoType": "HLS",
+				"url"      : "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/palestinian_satellite_channel/hls1/palestinian_satellite_channel.m3u8"
+			}],
+			"duration": 12345
+		},
+		"genres"          : ["news"],
+		"tags"            : ["live"],
+		"thumbnail"       : "https://mesbouquets.tv/static/image/logo-PalestineTV-240x240.png",
+		"releaseDate"     : "2021-08-01",
+		"shortDescription": "Palestine TV: Watch live!",
+		"longDescription" : "Palestine TV is part of the Palestinian Broadcasting Corporation."
+	},
+
+	{
+		"id"   : "myeuropatv-channel02",
+		"title": "France 2",
+		"content": {
+			"dateAdded": "2016-10-01T22:22:00+00:00",
+			"videos": [{
+				"quality"  : "HD",
+				"videoType": "HLS",
+				"url"      : "http://frenchcontributionstreams.ashttp9.visionip.tv/live/virgin-frenchcontributionstreams-france2-hsslive-25f-16x9-SD/playlist.m3u8"
+			}],
+			"duration": 12345
+		},
+		"genres"          : ["news"],
+		"tags"            : ["live"],
+		"thumbnail"       : "https://blog.roku.com/developer/files/2016/09/thumbnail.png",
+		"releaseDate"     : "2016-10-01",
+		"shortDescription": "France 2: Watch live!",
+		"longDescription" : "Watch France 2, live from France. France 2 proposes various programs designed to please the whole family: news, series, games, documentaries, investigations, documentaries, sports..."
+	}
+
+	]
+}
