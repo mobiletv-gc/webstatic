@@ -58,7 +58,7 @@
 			},
 			"genres": ["news"],
 			"tags": ["live"],
-			"thumbnail": "https://blog.roku.com/developer/files/2016/09/thumbnail.png",
+			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-SudanTV-800x450.png",
 			"releaseDate": "2021-08-01",
 			"shortDescription": "Sudan TV: Watch live!",
 			"longDescription": "Sudan TV programming includes news, prayers, Quran recitation and a variety of entertainment."
@@ -78,7 +78,7 @@
 			},
 			"genres": ["news"],
 			"tags": ["live"],
-			"thumbnail": "https://blog.roku.com/developer/files/2016/09/thumbnail.png",
+			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-OmanTV-800x450.png",
 			"releaseDate": "2021-08-01",
 			"shortDescription": "Oman TV: Watch live!",
 			"longDescription": "Oman TV is the national television channel in Sultanate of Oman broadcasting from the city of Muscat."
@@ -98,7 +98,7 @@
 			},
 			"genres": ["news"],
 			"tags": ["live"],
-			"thumbnail": "https://blog.roku.com/developer/files/2016/09/thumbnail.png",
+			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-SaudiTVChannel1KSA-800x450.png",
 			"releaseDate": "2021-08-01",
 			"shortDescription": "Saudi TV 1: Watch live!",
 			"longDescription": "Saudi TV Channel 1 (KSA1) offers cultural, political, and economic shows and runs religious programs."
