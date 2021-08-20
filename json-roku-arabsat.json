@@ -1,15 +1,15 @@
 {
 	"providerName": "Ababsat",
-	"lastUpdated": "2021-08-20T14:52:00+00:00",
 	"language": "en-US",
+	"lastUpdated": "2021-08-20T17:27:00+00:00",
 
-    "liveFeeds": [
+	"liveFeeds": [
 
 		{
 			"id": "arabsat-channel01",
 			"title": "Palestine TV",
 			"content": {
-				"dateAdded": "2021-08-01T22:22:16+00:00",
+				"dateAdded": "2021-08-01T22:29:16+00:00",
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
