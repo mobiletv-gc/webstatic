@@ -19,7 +19,7 @@
 			},
 			"genres": ["news"],
 			"tags": ["live", "tv", "congo"],
-			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-ORTN-TeleSahel-800x450.png",
+			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-RTC-TeleCongo-800x450.png",
 			"releaseDate": "2021-08-01",
 			"shortDescription": "Tele Congo: Voir le direct !",
 			"longDescription": "Tele Congo est la chaine nationale du Congo editee par la RTC."
@@ -39,7 +39,7 @@
 			},
 			"genres": ["news"],
 			"tags": ["live", "radio", "congo"],
-			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-ORTN-VoixDuSahel-800x450.png",
+			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-RTC-RadioCongo-800x450.png",
 			"releaseDate": "2021-08-01",
 			"shortDescription": "Radio Congo: Ecouter le direct !",
 			"longDescription": "Radio Congo est la radio nationale du Congo editee par la RTC."
