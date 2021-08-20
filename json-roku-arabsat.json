@@ -1,14 +1,15 @@
 {
 	"providerName": "Ababsat",
-	"lastUpdated": "2021-08-19T22:22:22+00:00",
+	"lastUpdated": "2021-08-20T12:12:00+00:00",
 	"language": "en-US",
-	"movies": [
+
+    "liveFeeds": [
 
 		{
 			"id": "arabsat-tve-promoclip",
 			"title": "Arabsat TV Everywhere Promo Clip",
 			"content": {
-				"dateAdded": "2021-08-01T22:22:00+00:00",
+				"dateAdded": "2021-08-01T12:12:00+00:00",
 				"videos": [{
 					"quality": "HD",
 					"videoType": "MP4",
@@ -28,16 +29,16 @@
 			"id": "arabsat-channel01",
 			"title": "Palestine TV",
 			"content": {
-				"dateAdded": "2021-08-01T22:22:00+00:00",
+				"dateAdded": "2021-08-01T22:22:01+00:00",
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
 					"url": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/palestinian_satellite_channel/hls1/palestinian_satellite_channel.m3u8"
 				}],
-				"duration": 86400
+				"duration": 0
 			},
 			"genres": ["news"],
-			"tags": ["live"],
+			"tags": ["live", "tv", "palestine"],
 			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-PalestineTV-800x450.png",
 			"releaseDate": "2021-08-01",
 			"shortDescription": "Palestine TV: Watch live!",
@@ -48,16 +49,16 @@
 			"id": "arabsat-channel02",
 			"title": "Sudan TV",
 			"content": {
-				"dateAdded": "2021-08-01T22:22:00+00:00",
+				"dateAdded": "2021-08-01T12:12:02+00:00",
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
 					"url": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/sudan_tv/hls1/sudan_tv.m3u8"
 				}],
-				"duration": 86400
+				"duration": 0
 			},
 			"genres": ["news"],
-			"tags": ["live"],
+			"tags": ["live", "tv", "sudan"],
 			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-SudanTV-800x450.png",
 			"releaseDate": "2021-08-01",
 			"shortDescription": "Sudan TV: Watch live!",
@@ -68,16 +69,16 @@
 			"id": "arabsat-channel03",
 			"title": "Oman TV",
 			"content": {
-				"dateAdded": "2021-08-01T22:22:00+00:00",
+				"dateAdded": "2021-08-01T12:12:03+00:00",
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
 					"url": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/oman_tv/hls1/oman_tv.m3u8"
 				}],
-				"duration": 86400
+				"duration": 0
 			},
 			"genres": ["news"],
-			"tags": ["live"],
+			"tags": ["live", "tv", "oman"],
 			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-OmanTV-800x450.png",
 			"releaseDate": "2021-08-01",
 			"shortDescription": "Oman TV: Watch live!",
@@ -88,16 +89,16 @@
 			"id": "arabsat-channel04",
 			"title": "Saudi TV 1 (KSA1)",
 			"content": {
-				"dateAdded": "2021-08-01T22:22:00+00:00",
+				"dateAdded": "2021-08-01T12:12:04+00:00",
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
 					"url": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8"
 				}],
-				"duration": 86400
+				"duration": 0
 			},
 			"genres": ["news"],
-			"tags": ["live"],
+			"tags": ["live", "tv", "saudi", "arabia", "ksa"],
 			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-SaudiTVChannel1KSA-800x450.png",
 			"releaseDate": "2021-08-01",
 			"shortDescription": "Saudi TV 1: Watch live!",
@@ -108,16 +109,16 @@
 			"id": "arabsat-channel05",
 			"title": "Saudi Quran TV",
 			"content": {
-				"dateAdded": "2021-08-01T22:22:00+00:00",
+				"dateAdded": "2021-08-01T12:12:05+00:00",
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
 					"url": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8"
 				}],
-				"duration": 86400
+				"duration": 0
 			},
 			"genres": ["news"],
-			"tags": ["live"],
+			"tags": ["live", "tv", "saudi", "quran"],
 			"thumbnail": "https://blog.roku.com/developer/files/2016/09/thumbnail.png",
 			"releaseDate": "2021-08-01",
 			"shortDescription": "Saudi Quran TV: Watch live!",
@@ -128,16 +129,16 @@
 			"id": "arabsat-channel06",
 			"title": "Saudi Sunnah Channel",
 			"content": {
-				"dateAdded": "2021-08-01T22:22:00+00:00",
+				"dateAdded": "2021-08-01T12:12:06+00:00",
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
 					"url": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8"
 				}],
-				"duration": 86400
+				"duration": 0
 			},
 			"genres": ["news"],
-			"tags": ["live"],
+			"tags": ["live", "tv", "saudi", "quran", "medina"],
 			"thumbnail": "https://blog.roku.com/developer/files/2016/09/thumbnail.png",
 			"releaseDate": "2021-08-01",
 			"shortDescription": "Saudi Sunnah Channel: Watch live!",
