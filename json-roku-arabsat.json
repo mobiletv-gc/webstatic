@@ -6,30 +6,10 @@
     "liveFeeds": [
 
 		{
-			"id": "arabsat-tve-promoclip",
-			"title": "Arabsat TV Everywhere Promo Clip",
-			"content": {
-				"dateAdded": "2021-08-01T12:12:00+00:00",
-				"videos": [{
-					"quality": "HD",
-					"videoType": "MP4",
-					"url": "http://www.mesbouquets.tv/static/media/promo-Arabsat-EN.mp4"
-				}],
-				"duration": 15
-			},
-			"genres": ["special"],
-			"tags": ["promo"],
-			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-Arabsat-800x450.png",
-			"releaseDate": "2021-08-01",
-			"shortDescription": "Discover Arabsat TV Everywhere",
-			"longDescription": "Thanks to Arabsat TV Everywhere, you can stay in touch with TV channels from the arabic world while you are abroad."
-		},
-
-		{
 			"id": "arabsat-channel01",
 			"title": "Palestine TV",
 			"content": {
-				"dateAdded": "2021-08-01T22:22:01+00:00",
+				"dateAdded": "2021-08-01T22:22:16+00:00",
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
@@ -49,7 +29,7 @@
 			"id": "arabsat-channel02",
 			"title": "Sudan TV",
 			"content": {
-				"dateAdded": "2021-08-01T12:12:02+00:00",
+				"dateAdded": "2021-08-01T12:12:15+00:00",
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
@@ -69,7 +49,7 @@
 			"id": "arabsat-channel03",
 			"title": "Oman TV",
 			"content": {
-				"dateAdded": "2021-08-01T12:12:03+00:00",
+				"dateAdded": "2021-08-01T12:12:14+00:00",
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
@@ -89,7 +69,7 @@
 			"id": "arabsat-channel04",
 			"title": "Saudi TV 1 (KSA1)",
 			"content": {
-				"dateAdded": "2021-08-01T12:12:04+00:00",
+				"dateAdded": "2021-08-01T12:12:13+00:00",
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
@@ -109,7 +89,7 @@
 			"id": "arabsat-channel05",
 			"title": "Saudi Quran TV",
 			"content": {
-				"dateAdded": "2021-08-01T12:12:05+00:00",
+				"dateAdded": "2021-08-01T12:12:12+00:00",
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
@@ -129,7 +109,7 @@
 			"id": "arabsat-channel06",
 			"title": "Saudi Sunnah Channel",
 			"content": {
-				"dateAdded": "2021-08-01T12:12:06+00:00",
+				"dateAdded": "2021-08-01T12:12:11+00:00",
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
@@ -144,6 +124,29 @@
 			"shortDescription": "Saudi Sunnah Channel: Watch live!",
 			"longDescription": "Saudi Sunnah Channel provides live webcam scenes of Medina."
 		}
+	]
+
+	"movies": [{
+		{
+			"id": "arabsat-tve-promoclip",
+			"title": "Arabsat TV Everywhere Promo Clip",
+			"content": {
+				"dateAdded": "2021-08-01T12:12:00+00:00",
+				"videos": [{
+					"quality": "HD",
+					"videoType": "MP4",
+					"url": "http://www.mesbouquets.tv/static/media/promo-Arabsat-EN.mp4"
+				}],
+				"duration": 15
+			},
+			"genres": ["special"],
+			"tags": ["promo"],
+			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-Arabsat-800x450.png",
+			"releaseDate": "2021-08-01",
+			"shortDescription": "Discover Arabsat TV Everywhere",
+			"longDescription": "Thanks to Arabsat TV Everywhere, you can stay in touch with TV channels from the arabic world while you are abroad."
+		},
+
 
 	]
 }
