@@ -124,7 +124,7 @@
 			"shortDescription": "Saudi Sunnah Channel: Watch live!",
 			"longDescription": "Saudi Sunnah Channel provides live webcam scenes of Medina."
 		}
-	]
+	],
 
 	"movies": [{
 		{
@@ -145,8 +145,6 @@
 			"releaseDate": "2021-08-01",
 			"shortDescription": "Discover Arabsat TV Everywhere",
 			"longDescription": "Thanks to Arabsat TV Everywhere, you can stay in touch with TV channels from the arabic world while you are abroad."
-		},
-
-
+		}
 	]
 }
