@@ -13,7 +13,7 @@
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
-					"url": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/tele_sahel/hls_video/index.m3u8"
+					"url": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/congo_tv/hls_video_token/index.m3u8"
 				}],
 				"duration": 0
 			},
@@ -26,14 +26,14 @@
 		},
 
 		{
-			"id": "ortn-channel02",
+			"id": "rtc-channel02",
 			"title": "Radio Congo",
 			"content": {
 				"dateAdded": "2021-08-01T12:12:15+00:00",
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
-					"url": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/la_voix_du_sahel/radio_hls/index.m3u8"
+					"url": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/radio_congo/radio_hls_token/index.m3u8"
 				}],
 				"duration": 0
 			},
