@@ -1,7 +1,7 @@
 {
 	"providerName": "SNRT",
 	"language": "fr-FR",
-	"lastUpdated": "2021-08-25T11:11:30+00:00",
+	"lastUpdated": "2021-08-25T12:12:30+00:00",
 
 	"liveFeeds": [
 
@@ -9,7 +9,7 @@
 			"id": "snrt-channel01",
 			"title": "TV1 Al Aoula",
 			"content": {
-				"dateAdded": "2021-08-24T12:12:16+00:00",
+				"dateAdded": "2021-08-25T12:12:16+00:00",
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
@@ -20,7 +20,7 @@
 			"genres": ["news"],
 			"tags": ["live", "tv", "maroc", "aoula"],
 			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-SNRT-TV1-800x450.png",
-			"releaseDate": "2021-08-01",
+			"releaseDate": "2021-08-02",
 			"shortDescription": "TV1 Al Aoula: voir le direct !",
 			"longDescription": "TV1 Al Aoula est une chaine publique marocaine editée par la SNRT."
 		},
@@ -29,7 +29,7 @@
 			"id": "snrt-channel02",
 			"title": "TV1 Al Aoula Laayoune",
 			"content": {
-				"dateAdded": "2021-08-24T12:12:15+00:00",
+				"dateAdded": "2021-08-25T12:12:15+00:00",
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
@@ -40,7 +40,7 @@
 			"genres": ["news"],
 			"tags": ["live", "tv", "maroc", "aoula", "laayoune"],
 			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-SNRT-TV1bis-800x450.png",
-			"releaseDate": "2021-08-01",
+			"releaseDate": "2021-08-02",
 			"shortDescription": "TV1 Al Aoula Laayoune: voir le direct !",
 			"longDescription": "TV1 Al Aoula Laayoune est une chaine publique marocaine editée par la SNRT."
 		},
@@ -49,7 +49,7 @@
 			"id": "snrt-channel03",
 			"title": "TV3 Arryadia",
 			"content": {
-				"dateAdded": "2021-08-24T12:12:14+00:00",
+				"dateAdded": "2021-08-25T12:12:14+00:00",
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
@@ -60,7 +60,7 @@
 			"genres": ["news"],
 			"tags": ["live", "tv", "maroc", "arryadia"],
 			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-SNRT-TV3-800x450.png",
-			"releaseDate": "2021-08-01",
+			"releaseDate": "2021-08-02",
 			"shortDescription": "TV3 Arryadia: voir le direct !",
 			"longDescription": "TV3 Arryadia est une chaine publique marocaine editée par la SNRT."
 		},
@@ -69,7 +69,7 @@
 			"id": "snrt-channel04",
 			"title": "TV4 Athaqafia",
 			"content": {
-				"dateAdded": "2021-08-24T12:12:13+00:00",
+				"dateAdded": "2021-08-25T12:12:13+00:00",
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
@@ -80,7 +80,7 @@
 			"genres": ["news"],
 			"tags": ["live", "tv", "maroc", "athaqafia"],
 			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-SNRT-TV4-800x450.png",
-			"releaseDate": "2021-08-01",
+			"releaseDate": "2021-08-02",
 			"shortDescription": "TV4 Athaqafia: voir le direct !",
 			"longDescription": "TV4 Athaqafia est une chaine publique marocaine editée par la SNRT."
 		},
@@ -89,7 +89,7 @@
 			"id": "snrt-channel05",
 			"title": "TV5 Al Maghribia",
 			"content": {
-				"dateAdded": "2021-08-24T12:12:12+00:00",
+				"dateAdded": "2021-08-25T12:12:12+00:00",
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
@@ -100,7 +100,7 @@
 			"genres": ["news"],
 			"tags": ["live", "tv", "maroc", "maghribia"],
 			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-SNRT-TV5-800x450.png",
-			"releaseDate": "2021-08-01",
+			"releaseDate": "2021-08-02",
 			"shortDescription": "TV5 Al Maghribia: voir le direct !",
 			"longDescription": "TV5 Al Maghribia est une chaine publique marocaine editée par la SNRT."
 		},
@@ -109,7 +109,7 @@
 			"id": "snrt-channel06",
 			"title": "TV6 Assadissa",
 			"content": {
-				"dateAdded": "2021-08-24T12:12:11+00:00",
+				"dateAdded": "2021-08-25T12:12:11+00:00",
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
@@ -120,7 +120,7 @@
 			"genres": ["news"],
 			"tags": ["live", "tv", "assadissa"],
 			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-SNRT-TV6-800x450.png",
-			"releaseDate": "2021-08-01",
+			"releaseDate": "2021-08-02",
 			"shortDescription": "TV6 Assadissa: voir le direct !",
 			"longDescription": "TV6 Assadissa est une chaine publique marocaine editée par la SNRT."
 		},
@@ -129,7 +129,7 @@
 			"id": "snrt-channel08",
 			"title": "TV8 Tamazight",
 			"content": {
-				"dateAdded": "2021-08-24T12:12:10+00:00",
+				"dateAdded": "2021-08-25T12:12:10+00:00",
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
@@ -140,7 +140,7 @@
 			"genres": ["news"],
 			"tags": ["live", "tv", "tamazight"],
 			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-SNRT-TV8-800x450.png",
-			"releaseDate": "2021-08-01",
+			"releaseDate": "2021-08-02",
 			"shortDescription": "TV8 Tamazight: voir le direct !",
 			"longDescription": "TV8 Tamazight est une chaine publique marocaine editée par la SNRT."
 		}
