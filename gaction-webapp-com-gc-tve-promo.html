@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Interactive Canvas Sample</title>
+
+    <!-- Disable favicon requests -->
+    <link rel="shortcut icon" type="image/x-icon" href="data:image/x-icon;,">
+
+    <!-- Load Interactive Canvas JavaScript -->
+    <script src="https://www.gstatic.com/assistant/interactivecanvas/api/interactive_canvas.min.js"></script>
+
+    <!-- Load PixiJS for graphics rendering -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pixi.js/4.8.7/pixi.min.js"></script>
+
+    <!-- Load Stats.js for fps monitoring -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/stats.js/r16/Stats.min.js"></script>
+	
+    <!-- Load custom CSS -->
+	<!--
+    <link rel="stylesheet" href="css/main.css">
+	-->
+
+	<!-- Set custome CSS -->
+    <style>
+      @import url('https://fonts.googleapis.com/css?family=Google+Sans:400,500,700');
+      html,
+      body {
+          padding: 0;
+          margin: 0;
+          background: #fff;
+          height: 100%;
+      }
+      #immersive-container {
+        border: 0;
+        display: block;
+        height: 100%;
+        width: 100%;
+      }
+
+      /**
+       * b/148928535: 3p apps may not correctly handle the 1024x640 resolution which was introduced
+       * with Opal if they use media queries, so we set the observed resolution back to 1280x800.
+       */
+      @media (width: 1024px) and (height: 640px) {
+        iframe#immersive-container {
+          height: 800px;
+          width: 1280px;
+          transform-origin: 0 0;
+         transform: scale(0.8);
+        }
+      }
+  </style>	
+	
+  </head>
+  <body>
+    <div id="view" class="view">
+      <div class="debug">
+        <div class="stats"></div>
+        <div class="logs"></div>
+      </div>
+    </div>
+
+    <!-- Load custom JavaScript after elements are on page -->
+    <script src="js/log.js"></script>
+    <script type="module" src="js/main.js"></script>
+
+    <iframe id="immersive-container"> </iframe>
+
+  </body>
+</html>
