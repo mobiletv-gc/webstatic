@@ -1,0 +1,151 @@
+{
+	"providerName": "Ababsat",
+	"language":     "en-US",
+	"lastUpdated":  "2023-07-05T17:50:00+00:00",
+	"comment1":     "migrated from Roku Direct Publisher to SceneGraph SDK",
+
+	"Live TV": [
+
+		{
+			"id": "arabsat-channel01",
+			"title": "Palestine TV",
+			"content": {
+				"dateAdded": "2021-08-01T22:29:16+00:00",
+				"videos": [{
+					"quality": "SD",
+					"videoType": "HLS",
+					"url": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/palestinian_satellite_channel/hls1/palestinian_satellite_channel.m3u8"
+				}],
+				"duration": 0
+			},
+			"genres": ["news"],
+			"tags": ["live", "tv", "palestine"],
+			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-PalestineTV-800x450.png",
+			"releaseDate": "2021-08-01",
+			"shortDescription": "Palestine TV: Watch live!",
+			"longDescription": "Palestine TV is part of the Palestinian Broadcasting Corporation."
+		},
+
+		{
+			"id": "arabsat-channel02",
+			"title": "Sudan TV",
+			"content": {
+				"dateAdded": "2021-08-01T12:12:15+00:00",
+				"videos": [{
+					"quality": "SD",
+					"videoType": "HLS",
+					"url": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/sudan_tv/hls1/sudan_tv.m3u8"
+				}],
+				"duration": 0
+			},
+			"genres": ["news"],
+			"tags": ["live", "tv", "sudan"],
+			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-SudanTV-800x450.png",
+			"releaseDate": "2021-08-01",
+			"shortDescription": "Sudan TV: Watch live!",
+			"longDescription": "Sudan TV programming includes news, prayers, Quran recitation and a variety of entertainment."
+		},
+
+		{
+			"id": "arabsat-channel03",
+			"title": "Oman TV",
+			"content": {
+				"dateAdded": "2021-08-01T12:12:14+00:00",
+				"videos": [{
+					"quality": "SD",
+					"videoType": "HLS",
+					"url": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/oman_tv/hls1/oman_tv.m3u8"
+				}],
+				"duration": 0
+			},
+			"genres": ["news"],
+			"tags": ["live", "tv", "oman"],
+			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-OmanTV-800x450.png",
+			"releaseDate": "2021-08-01",
+			"shortDescription": "Oman TV: Watch live!",
+			"longDescription": "Oman TV is the national television channel in Sultanate of Oman broadcasting from the city of Muscat."
+		},
+
+		{
+			"id": "arabsat-channel04",
+			"title": "Saudi TV 1 (KSA1)",
+			"content": {
+				"dateAdded": "2021-08-01T12:12:13+00:00",
+				"videos": [{
+					"quality": "SD",
+					"videoType": "HLS",
+					"url": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8"
+				}],
+				"duration": 0
+			},
+			"genres": ["news"],
+			"tags": ["live", "tv", "saudi", "arabia", "ksa"],
+			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-SaudiTVChannel1KSA-800x450.png",
+			"releaseDate": "2021-08-01",
+			"shortDescription": "Saudi TV 1: Watch live!",
+			"longDescription": "Saudi TV Channel 1 (KSA1) offers cultural, political, and economic shows and runs religious programs."
+		},
+
+		{
+			"id": "arabsat-channel05",
+			"title": "Saudi Quran TV",
+			"content": {
+				"dateAdded": "2021-08-01T12:12:12+00:00",
+				"videos": [{
+					"quality": "SD",
+					"videoType": "HLS",
+					"url": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8"
+				}],
+				"duration": 0
+			},
+			"genres": ["news"],
+			"tags": ["live", "tv", "saudi", "quran"],
+			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-SaudiQuranTV-800x450.png",
+			"releaseDate": "2021-08-01",
+			"shortDescription": "Saudi Quran TV: Watch live!",
+			"longDescription": "Saudi Quran TV is state run and administered by the Ministry of Culture and Information."
+		},
+
+		{
+			"id": "arabsat-channel06",
+			"title": "Saudi Sunnah Channel",
+			"content": {
+				"dateAdded": "2021-08-01T12:12:11+00:00",
+				"videos": [{
+					"quality": "SD",
+					"videoType": "HLS",
+					"url": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8"
+				}],
+				"duration": 0
+			},
+			"genres": ["news"],
+			"tags": ["live", "tv", "saudi", "quran", "medina"],
+			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-SaudiSunnahChannel-800x450.png",
+			"releaseDate": "2021-08-01",
+			"shortDescription": "Saudi Sunnah Channel: Watch live!",
+			"longDescription": "Saudi Sunnah Channel provides live webcam scenes of Medina."
+		}
+	],
+
+	"On-demand": [
+		{
+			"id": "arabsat-tve-promoclip",
+			"title": "Arabsat TV Everywhere Promo Clip",
+			"content": {
+				"dateAdded": "2021-01-01T12:12:00+00:00",
+				"videos": [{
+					"quality": "HD",
+					"videoType": "MP4",
+					"url": "http://www.mesbouquets.tv/static/media/promo-Arabsat-EN.mp4"
+				}],
+				"duration": 15
+			},
+			"genres": ["special"],
+			"tags": ["promo"],
+			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-Arabsat-800x450.png",
+			"releaseDate": "2021-08-01",
+			"shortDescription": "Discover Arabsat TV Everywhere",
+			"longDescription": "Thanks to Arabsat TV Everywhere, you can stay in touch with TV channels from the arabic world while you are abroad."
+		}
+	]
+}
