@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-MEDIA:TYPE=AUDIO,URI="radio_congo-mp4a_130400_fra=3.m3u8",GROUP-ID="audio-AACL-130",LANGUAGE="fr",NAME="French",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
+#EXT-X-STREAM-INF:BANDWIDTH=130400,AVERAGE-BANDWIDTH=130400,CODECS="mp4a.40.2",AUDIO="audio-AACL-130"
+https://demo.mdb.cdn.orange.com/gc/live/ramdisk/radio_congo/radio_hls_token/radio_congo-mp4a_130400_fra=3.m3u8
