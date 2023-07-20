@@ -53,7 +53,7 @@
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
-					"url": "https://mobiletv-gc.github.io/webstatic/hls_radio_congo.m3u8"
+					"url": "https://streams.radiomast.io/ref-128k-aaclc-stereo/hls.m3u8"
 				}],
 				"duration": 0
 			},
@@ -61,8 +61,8 @@
 			"tags": ["live", "radio", "congo"],
 			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-RTC-RadioCongo-800x450.png",
 			"releaseDate": "2023-07-01",
-			"shortDescription": "Radio Congo: Ecouter le direct !",
-			"longDescription": "Radio Congo est la radio nationale du Congo editee par la RTC."
+			"shortDescription": "Radio Test: Ecouter le direct !",
+			"longDescription": "Radio Test est la radio qui sert pour des tests techniques."
 		}
 
 	]
