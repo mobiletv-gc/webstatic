@@ -33,7 +33,6 @@
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
-					"url_ori": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/radio_congo/radio_hls_token/index.m3u8"
 					"url":     "https://mobiletv-gc.github.io/webstatic/hls_radio_congo.m3u8"
 				}],
 				"duration": 0
