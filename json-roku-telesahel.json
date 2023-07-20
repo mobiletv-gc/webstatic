@@ -33,7 +33,8 @@
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
-					"url": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/la_voix_du_sahel/radio_hls/index.m3u8"
+					"url_ori": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/la_voix_du_sahel/radio_hls/index.m3u8"
+					"url":     "https://mobiletv-gc.github.io/webstatic/hls_radio_ortn_voix_du_sahel.m3u8"
 				}],
 				"duration": 0
 			},
