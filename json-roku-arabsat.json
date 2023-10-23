@@ -1,19 +1,19 @@
 {
 	"providerName": "Ababsat",
 	"language": "en-US",
-	"lastUpdated": "2021-08-20T17:27:00+00:00",
+	"lastUpdated": "2023-23-20T17:27:00+00:00",
 
 	"liveFeeds": [
 
 		{
 			"id": "arabsat-channel01",
-			"title": "Palestine TV",
+			"title": "Palestine Satellite Channel",
 			"content": {
 				"dateAdded": "2021-08-01T22:29:16+00:00",
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
-					"url": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/palestinian_satellite_channel/hls1_token/index.m3u8"
+					"url": "https://pbc.furrera.ps/palestinehd/index.m3u8"
 				}],
 				"duration": 0
 			},
@@ -21,8 +21,8 @@
 			"tags": ["live", "tv", "palestine"],
 			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-PalestineTV-800x450.png",
 			"releaseDate": "2021-08-01",
-			"shortDescription": "Palestine TV: Watch live!",
-			"longDescription": "Palestine TV is part of the Palestinian Broadcasting Corporation."
+			"shortDescription": "Palestine Satellite Channel: Watch live!",
+			"longDescription": "Palestine Satellite Channel is part of the Palestinian Broadcasting Corporation."
 		},
 
 		{
