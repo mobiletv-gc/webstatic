@@ -1,7 +1,7 @@
 {
 	"providerName": "Ababsat",
 	"language": "en-US",
-	"lastUpdated": "2023-10-25T17:27:00+00:00",
+	"lastUpdated": "2023-10-25T17:28:00+00:00",
 
 	"liveFeeds": [
 
@@ -53,7 +53,7 @@
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
-					"url": "https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/playlist.m3u8?stime=20231018063849&etime=20231025104029&token=0f7d4e681790a39ba0544"
+					"url": "https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b900000.m3u8"
 				}],
 				"duration": 0
 			},
