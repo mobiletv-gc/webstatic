@@ -53,7 +53,7 @@
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
-					"url": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/oman_tv/hls1_token/index.m3u8"
+					"url": "https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/playlist.m3u8?stime=20231018063849&etime=20231025104029&token=0f7d4e681790a39ba0544"
 				}],
 				"duration": 0
 			},
@@ -73,7 +73,7 @@
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
-					"url": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/saudi_tv/hls1_token/index.m3u8"
+					"url": "https://cllive.itworkscdn.net/ksa1live/token=nva=1698244706~dirs=1~hash=0d8cc6af3ca028736252e/ksa1.smil/playlist_dvr.m3u8"
 				}],
 				"duration": 0
 			},
@@ -93,7 +93,7 @@
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
-					"url": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/saudi_quran/hls1_token/index.m3u8"
+					"url": "https://cllive.itworkscdn.net/ksaquranlive/token=nva=1698244788~dirs=1~hash=0f225717bfddf89dfc883/ksaquran.smil/playlist_dvr.m3u8"
 				}],
 				"duration": 0
 			},
@@ -113,7 +113,7 @@
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
-					"url": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/saudi_sunnah/hls1_token/index.m3u8"
+					"url": "https://cllive.itworkscdn.net/ksasunnalive/token=nva=1698244944~dirs=1~hash=0cb3aa68d63a7e5f3d60d/ksasunna.smil/playlist_dvr.m3u8"
 				}],
 				"duration": 0
 			},
