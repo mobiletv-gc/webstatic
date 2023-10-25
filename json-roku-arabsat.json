@@ -1,7 +1,7 @@
 {
 	"providerName": "Ababsat",
 	"language": "en-US",
-	"lastUpdated": "2023-10-25T17:28:00+00:00",
+	"lastUpdated": "2023-10-25T17:29:00+00:00",
 
 	"liveFeeds": [
 
@@ -19,7 +19,7 @@
 			},
 			"genres": ["news"],
 			"tags": ["live", "tv", "palestine"],
-			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-PalestineTV-800x450.png",
+			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-PalestineTV-800x450.png",
 			"releaseDate": "2021-08-01",
 			"shortDescription": "Palestine Satellite Channel: Watch live!",
 			"longDescription": "Palestine Satellite Channel is part of the Palestinian Broadcasting Corporation."
@@ -39,7 +39,7 @@
 			},
 			"genres": ["news"],
 			"tags": ["live", "tv", "sudan"],
-			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-SudanTV-800x450.png",
+			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-SudanTV-800x450.png",
 			"releaseDate": "2021-08-01",
 			"shortDescription": "Sudan TV: Watch live!",
 			"longDescription": "Sudan TV programming includes news, prayers, Quran recitation and a variety of entertainment."
@@ -59,7 +59,7 @@
 			},
 			"genres": ["news"],
 			"tags": ["live", "tv", "oman"],
-			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-OmanTV-800x450.png",
+			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-OmanTV-800x450.png",
 			"releaseDate": "2021-08-01",
 			"shortDescription": "Oman TV: Watch live!",
 			"longDescription": "Oman TV is the national television channel in Sultanate of Oman broadcasting from the city of Muscat."
@@ -79,7 +79,7 @@
 			},
 			"genres": ["news"],
 			"tags": ["live", "tv", "sharjah", "uae"],
-			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-SharjahTV-800x450.png",
+			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-SharjahTV-800x450.png",
 			"releaseDate": "2023-10-01",
 			"shortDescription": "Sharjah TV: Watch live!",
 			"longDescription": "Sharjah TV is the national television channel from the emirate of Sharjah, UAE."
@@ -99,7 +99,7 @@
 			},
 			"genres": ["news"],
 			"tags": ["live", "tv", "saudi", "arabia", "ksa"],
-			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-SaudiTVChannel1KSA-800x450.png",
+			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-SaudiTVChannel1KSA-800x450.png",
 			"releaseDate": "2021-08-01",
 			"shortDescription": "Saudi TV 1: Watch live!",
 			"longDescription": "Saudi TV Channel 1 (KSA1) offers cultural, political, and economic shows and runs religious programs."
@@ -119,7 +119,7 @@
 			},
 			"genres": ["news"],
 			"tags": ["live", "tv", "saudi", "quran"],
-			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-SaudiQuranTV-800x450.png",
+			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-SaudiQuranTV-800x450.png",
 			"releaseDate": "2021-08-01",
 			"shortDescription": "Saudi Quran TV: Watch live!",
 			"longDescription": "Saudi Quran TV is state run and administered by the Ministry of Culture and Information."
@@ -139,7 +139,7 @@
 			},
 			"genres": ["news"],
 			"tags": ["live", "tv", "saudi", "quran", "medina"],
-			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-SaudiSunnahChannel-800x450.png",
+			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-SaudiSunnahChannel-800x450.png",
 			"releaseDate": "2021-08-01",
 			"shortDescription": "Saudi Sunnah Channel: Watch live!",
 			"longDescription": "Saudi Sunnah Channel provides live webcam scenes of Medina."
@@ -155,13 +155,13 @@
 				"videos": [{
 					"quality": "HD",
 					"videoType": "MP4",
-					"url": "http://www.mesbouquets.tv/static/media/promo-Arabsat-EN.mp4"
+					"url": "https://www.mesbouquets.tv/static/media/promo-Arabsat-EN.mp4"
 				}],
 				"duration": 15
 			},
 			"genres": ["special"],
 			"tags": ["promo"],
-			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-Arabsat-800x450.png",
+			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-Arabsat-800x450.png",
 			"releaseDate": "2021-08-01",
 			"shortDescription": "Discover Arabsat TV Everywhere",
 			"longDescription": "Thanks to Arabsat TV Everywhere, you can stay in touch with TV channels from the arabic world while you are abroad."
