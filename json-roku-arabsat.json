@@ -1,7 +1,7 @@
 {
-	"providerName": "Ababsat TV Everywhere - Global Arabic Bouquet",
+	"providerName": "Global Arabic+ - Live TV bouquet by Arabsat",
 	"language": "en-US",
-	"lastUpdated": "2024-04-04T01:01:00+00:00",
+	"lastUpdated": "2024-08-08T01:01:00+00:00",
 
 	"liveFeeds": [
 
@@ -149,7 +149,7 @@
 	"movies": [
 		{
 			"id": "arabsat-tve-promoclip",
-			"title": "Arabsat TV Everywhere Promo Clip",
+			"title": "Global Arabic+ promo clip",
 			"content": {
 				"dateAdded": "2021-07-01T12:12:00+00:00",
 				"videos": [{
@@ -163,8 +163,8 @@
 			"tags": ["promo"],
 			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-Arabsat-800x450.png",
 			"releaseDate": "2021-08-01",
-			"shortDescription": "Discover Arabsat TV Everywhere",
-			"longDescription": "Thanks to Arabsat TV Everywhere, you can stay in touch with TV channels from the arabic world while you are abroad."
+			"shortDescription": "Discover Global Arabic+ by Arabsat",
+			"longDescription": "Thanks Global Arabic+, Arabsat's bouquet of live TV channels for Internet, you can stay in touch with TV channels from the arabic from everywhere, on any device."
 		}
 	]
 }
