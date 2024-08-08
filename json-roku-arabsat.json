@@ -1,7 +1,7 @@
 {
 	"providerName": "Global Arabic+ - Live TV bouquet by Arabsat",
 	"language": "en-US",
-	"lastUpdated": "2024-08-08T01:05:00+00:00",
+	"lastUpdated": "2024-08-08T01:06:00+00:00",
 
 	"liveFeeds": [
 
@@ -213,7 +213,7 @@
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
-					"url": "https://kwtsplta.cdn.mangomolo.com/kb/smil:kb.stream.smil/playlist.m3u8"
+					"url": "https://kwtsplta.cdn.mangomolo.com/kb/smil:kb.stream.smil/playlist.m3u8?stime=20240801133727&etime=20240808200407&token=0b52d5a1b95eca3ae6818"
 				}],
 				"duration": 0
 			},
