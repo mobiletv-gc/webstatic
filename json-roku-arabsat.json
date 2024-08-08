@@ -207,13 +207,13 @@
 
 		{
 			"id": "arabsat-channel12",
-			"title": "Kuwait TV Al Akhbar",
+			"title": "Kuwait TV Al Akhbar (KTV2)",
 			"content": {
 				"dateAdded": "2021-08-01T12:12:06+00:00",
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
-					"url": "https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8"
+					"url": "https://kwtsplta.cdn.mangomolo.com/kb/smil:kb.stream.smil/playlist.m3u8"
 				}],
 				"duration": 0
 			},
@@ -221,7 +221,7 @@
 			"tags": ["live", "tv", "sharjah", "uae"],
 			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-SharjahTV-800x450.png",
 			"releaseDate": "2023-10-01",
-			"shortDescription": "Kuwait TV Al Akhbar: Watch live!",
+			"shortDescription": "Kuwait TV Al Akhbar (KTV2): Watch live!",
 			"longDescription": "Koweit TV Al Akhbar is the state run international news coverage channel"
 		}
 	],
