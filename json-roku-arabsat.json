@@ -66,26 +66,6 @@
 		},
 
 		{
-			"id": "arabsat-channel08",
-			"title": "Sharjah TV",
-			"content": {
-				"dateAdded": "2021-08-01T12:12:14+00:00",
-				"videos": [{
-					"quality": "SD",
-					"videoType": "HLS",
-					"url": "https://svs.itworkscdn.net/smc1live/smc1tv.smil//playlist.m3u8"
-				}],
-				"duration": 0
-			},
-			"genres": ["news"],
-			"tags": ["live", "tv", "sharjah", "uae"],
-			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-SharjahTV-800x450.png",
-			"releaseDate": "2023-10-01",
-			"shortDescription": "Sharjah TV: Watch live!",
-			"longDescription": "Sharjah TV is the national television channel from the emirate of Sharjah, UAE."
-		},
-
-		{
 			"id": "arabsat-channel04",
 			"title": "Saudi TV 1 (KSA1)",
 			"content": {
@@ -143,6 +123,106 @@
 			"releaseDate": "2021-08-01",
 			"shortDescription": "Saudi Sunnah Channel: Watch live!",
 			"longDescription": "Saudi Sunnah Channel provides live webcam scenes of Medina."
+		},
+
+		{
+			"id": "arabsat-channel07",
+			"title": "Koweit TV (KTV1)",
+			"content": {
+				"dateAdded": "2021-08-01T12:12:10+00:00",
+				"videos": [{
+					"quality": "SD",
+					"videoType": "HLS",
+					"url": "https://cdn-globecast.akamaized.net/live/eds/kuwait_tv1/hls_roku/index.m3u8"
+				}],
+				"duration": 0
+			},
+			"genres": ["news"],
+			"tags": ["live", "tv", "saudi", "quran", "medina"],
+			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-SaudiSunnahChannel-800x450.png",
+			"releaseDate": "2021-08-01",
+			"shortDescription": "Koweit TV (KTV1): Watch live!",
+			"longDescription": "KTV1 is the national television channel of Koweit."
+		},
+
+		{
+			"id": "arabsat-channel09",
+			"title": "Libya Al Wataniya TV",
+			"content": {
+				"dateAdded": "2021-08-01T12:12:09+00:00",
+				"videos": [{
+					"quality": "SD",
+					"videoType": "HLS",
+					"url": "https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8"
+				}],
+				"duration": 0
+			},
+			"genres": ["news"],
+			"tags": ["live", "tv", "saudi", "quran", "medina"],
+			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-SaudiSunnahChannel-800x450.png",
+			"releaseDate": "2021-08-01",
+			"shortDescription": "Libya Al Wataniya TV: Watch live!",
+			"longDescription": "Al Wataniya TV is the national television channel of Libya."
+		},
+
+		{
+			"id": "arabsat-channel10",
+			"title": "Saudi Al Ekhbariya",
+			"content": {
+				"dateAdded": "2021-08-01T12:12:08+00:00",
+				"videos": [{
+					"quality": "SD",
+					"videoType": "HLS",
+					"url": "https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8"
+				}],
+				"duration": 0
+			},
+			"genres": ["news"],
+			"tags": ["live", "tv", "saudi", "quran", "medina"],
+			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-SaudiSunnahChannel-800x450.png",
+			"releaseDate": "2021-08-01",
+			"shortDescription": "Saudi Al Ekhbariya: Watch live!",
+			"longDescription": "Al Ekhbariya is the Saudi Arabia news and current affairs TV channel based in Riyadh, KSA."
+		},
+
+		{
+			"id": "arabsat-channel11",
+			"title": "Sharjah TV",
+			"content": {
+				"dateAdded": "2021-08-01T12:12:07+00:00",
+				"videos": [{
+					"quality": "SD",
+					"videoType": "HLS",
+					"url": "https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8"
+				}],
+				"duration": 0
+			},
+			"genres": ["news"],
+			"tags": ["live", "tv", "sharjah", "uae"],
+			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-SharjahTV-800x450.png",
+			"releaseDate": "2023-10-01",
+			"shortDescription": "Sharjah TV: Watch live!",
+			"longDescription": "Sharjah TV is the national television channel from the emirate of Sharjah, UAE."
+		},
+
+		{
+			"id": "arabsat-channel12",
+			"title": "Kuwait TV Al Akhbar",
+			"content": {
+				"dateAdded": "2021-08-01T12:12:06+00:00",
+				"videos": [{
+					"quality": "SD",
+					"videoType": "HLS",
+					"url": "https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8"
+				}],
+				"duration": 0
+			},
+			"genres": ["news"],
+			"tags": ["live", "tv", "sharjah", "uae"],
+			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-SharjahTV-800x450.png",
+			"releaseDate": "2023-10-01",
+			"shortDescription": "Kuwait TV Al Akhbar: Watch live!",
+			"longDescription": "Koweit TV Al Akhbar is the state run international news coverage channel"
 		}
 	],
 
