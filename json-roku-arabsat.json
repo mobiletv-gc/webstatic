@@ -139,7 +139,7 @@
 			},
 			"genres": ["news"],
 			"tags": ["live", "tv", "koweit", "ktv1"],
-			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-SaudiSunnahChannel-800x450.png",
+			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-KuwaitTV1-800x450.png",
 			"releaseDate": "2021-08-01",
 			"shortDescription": "Koweit TV (KTV1): Watch live!",
 			"longDescription": "KTV1 is the national television channel of Koweit."
@@ -159,7 +159,7 @@
 			},
 			"genres": ["news"],
 			"tags": ["live", "tv", "libya", "wataniya"],
-			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-SaudiSunnahChannel-800x450.png",
+			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-LibyaAlWataniya-800x450.png",
 			"releaseDate": "2021-08-01",
 			"shortDescription": "Libya Al Wataniya TV: Watch live!",
 			"longDescription": "Al Wataniya TV is the national television channel of Libya."
@@ -179,7 +179,7 @@
 			},
 			"genres": ["news"],
 			"tags": ["live", "tv", "saudi", "ekhbariya"],
-			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-SaudiSunnahChannel-800x450.png",
+			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-SaudiAlEkhbariya-800x450.png",
 			"releaseDate": "2021-08-01",
 			"shortDescription": "Saudi Al Ekhbariya: Watch live!",
 			"longDescription": "Al Ekhbariya is the Saudi Arabia news and current affairs TV channel based in Riyadh, KSA."
@@ -219,7 +219,7 @@
 			},
 			"genres": ["news"],
 			"tags": ["live", "tv", "kuwait", "akhbar", "ktv2"],
-			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-SharjahTV-800x450.png",
+			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-KuwaitTV2-800x450.png",
 			"releaseDate": "2023-10-01",
 			"shortDescription": "Kuwait TV Al Akhbar (KTV2): Watch live!",
 			"longDescription": "Koweit TV Al Akhbar is the state run international news coverage channel"
