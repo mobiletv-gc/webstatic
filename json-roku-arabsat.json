@@ -1,7 +1,7 @@
 {
 	"providerName": "Global Arabic+ - Live TV bouquet by Arabsat",
 	"language": "en-US",
-	"lastUpdated": "2024-08-08T01:04:00+00:00",
+	"lastUpdated": "2024-08-08T01:05:00+00:00",
 
 	"liveFeeds": [
 
@@ -219,7 +219,7 @@
 			},
 			"genres": ["news"],
 			"tags": ["live", "tv", "kuwait", "akhbar", "ktv2"],
-			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-KuwaitTV2-800x450.png",
+			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-KuwaitTVAlAkhbar-800x450.png",
 			"releaseDate": "2023-10-01",
 			"shortDescription": "Kuwait TV Al Akhbar (KTV2): Watch live!",
 			"longDescription": "Koweit TV Al Akhbar is the state run international news coverage channel"
