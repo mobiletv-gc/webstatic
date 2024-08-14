@@ -1,7 +1,7 @@
 {
 	"providerName": "Global Arabic+ - Live TV bouquet by Arabsat",
 	"language": "en-US",
-	"lastUpdated": "2024-08-14T01:04:00+00:00",
+	"lastUpdated": "2024-08-14T01:05:00+00:00",
 
 	"liveFeeds": [
 
@@ -245,8 +245,10 @@
 			"releaseDate": "2021-08-01",
 			"shortDescription": "Discover Global Arabic+ by Arabsat",
 			"longDescription": "Thanks Global Arabic+, Arabsat's bouquet of live TV channels for Internet, you can stay in touch with TV channels from the arabic from everywhere, on any device."
-		},
+		}
+	],
 
+	"tvSpecials": [
 		{
 			"id": "arabsat-tve-radio01",
 			"title": "Sample Radio 01",
@@ -266,6 +268,5 @@
 			"shortDescription": "Radio Demo 0l: Listen live!",
 			"longDescription": "Radio Demo 01 is for demo and test purpose."
 		}
-
 	]
 }
