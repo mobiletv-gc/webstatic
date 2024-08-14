@@ -226,6 +226,28 @@
 		}
 	],
 
+	"radios": [
+		{
+			"id": "arabsat-tve-radio01",
+			"title": "Sample Radio 01",
+			"content": {
+				"dateAdded": "2021-08-01T12:12:15+00:00",
+				"videos": [{
+					"quality": "SD",
+					"videoType": "HLS",
+					"url":     "https://mobiletv-gc.github.io/webstatic/hls_radio_ortn_voix_du_sahel.m3u8"
+				}],
+				"duration": 0
+			},
+			"genres": ["news"],
+			"tags": ["live", "radio", "arabsat", "demo"],
+			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-ORTN-VoixDuSahel-800x450.png",
+			"releaseDate": "2021-08-01",
+			"shortDescription": "Radio Demo 0l: Listen live!",
+			"longDescription": "Radio Demo 01 is for demo and test purpose."
+		}		}
+	]
+
 	"movies": [
 		{
 			"id": "arabsat-tve-promoclip",
