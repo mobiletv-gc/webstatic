@@ -226,7 +226,7 @@
 		}
 	],
 
-	"radios": [
+	"series": [
 		{
 			"id": "arabsat-tve-radio01",
 			"title": "Sample Radio 01",
@@ -248,7 +248,7 @@
 		}		}
 	]
 
-	"On demand": [
+	"movies": [
 		{
 			"id": "arabsat-tve-promoclip",
 			"title": "Global Arabic+ promo clip",
