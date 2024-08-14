@@ -1,7 +1,7 @@
 {
 	"providerName": "Global Arabic+ - Live TV bouquet by Arabsat",
 	"language": "en-US",
-	"lastUpdated": "2024-08-14T01:02:00+00:00",
+	"lastUpdated": "2024-08-14T01:03:00+00:00",
 
 	"liveFeeds": [
 
@@ -226,7 +226,7 @@
 		}
 	],
 
-	"series": [
+	"liveFeeds": [
 		{
 			"id": "arabsat-tve-radio01",
 			"title": "Sample Radio 01",
@@ -235,7 +235,7 @@
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
-					"url":     "https://mobiletv-gc.github.io/webstatic/hls_radio_ortn_voix_du_sahel.m3u8"
+					"url": "https://mobiletv-gc.github.io/webstatic/hls_radio_ortn_voix_du_sahel.m3u8"
 				}],
 				"duration": 0
 			},
