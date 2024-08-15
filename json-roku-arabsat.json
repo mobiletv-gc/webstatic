@@ -1,7 +1,7 @@
 {
 	"providerName": "Global Arabic+ - Live TV bouquet by Arabsat",
 	"language": "en-US",
-	"lastUpdated": "2024-08-14T01:06:00+00:00",
+	"lastUpdated": "2024-08-15T01:01:00+00:00",
 
 	"liveFeeds": [
 
@@ -21,8 +21,8 @@
 			"tags": ["live", "tv", "palestine"],
 			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-PalestineTV-800x450.png",
 			"releaseDate": "2021-08-01",
-			"shortDescription": "Palestine Satellite Channel: Watch live!",
-			"longDescription": "Palestine Satellite Channel is part of the Palestinian Broadcasting Corporation."
+			"shortDescription": "Palestine Satellite Channel is part of the Palestinian Broadcasting Corporation.",
+			"longDescription": "Palestine Satellite Channel: Watch live!"
 		},
 
 		{
@@ -41,8 +41,8 @@
 			"tags": ["live", "tv", "sudan"],
 			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-SudanTV-800x450.png",
 			"releaseDate": "2021-08-01",
-			"shortDescription": "Sudan TV: Watch live!",
-			"longDescription": "Sudan TV programming includes news, prayers, Quran recitation and a variety of entertainment."
+			"shortDescription": "Sudan TV programming includes news, prayers, Quran recitation and a variety of entertainment.",
+			"longDescription": "Sudan TV: Watch live!"
 		},
 
 		{
@@ -61,8 +61,8 @@
 			"tags": ["live", "tv", "oman"],
 			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-OmanTV-800x450.png",
 			"releaseDate": "2021-08-01",
-			"shortDescription": "Oman TV: Watch live!",
-			"longDescription": "Oman TV is the national television channel in Sultanate of Oman broadcasting from the city of Muscat."
+			"shortDescription": "Oman TV is the national television channel in Sultanate of Oman broadcasting from the city of Muscat.",
+			"longDescription": "Oman TV: Watch live!"
 		},
 
 		{
@@ -81,8 +81,8 @@
 			"tags": ["live", "tv", "saudi", "arabia", "ksa"],
 			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-SaudiTVChannel1KSA-800x450.png",
 			"releaseDate": "2021-08-01",
-			"shortDescription": "Saudi TV 1: Watch live!",
-			"longDescription": "Saudi TV Channel 1 (KSA1) offers cultural, political, and economic shows and runs religious programs."
+			"shortDescription": "Saudi TV Channel 1 (KSA1) offers cultural, political, and economic shows and runs religious programs.",
+			"longDescription": "Saudi TV 1: Watch live!"
 		},
 
 		{
@@ -101,8 +101,8 @@
 			"tags": ["live", "tv", "saudi", "quran"],
 			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-SaudiQuranTV-800x450.png",
 			"releaseDate": "2021-08-01",
-			"shortDescription": "Saudi Quran TV: Watch live!",
-			"longDescription": "Saudi Quran TV is state run and administered by the Ministry of Culture and Information."
+			"shortDescription": "Saudi Quran TV is state run and administered by the Ministry of Culture and Information.",
+			"longDescription": "Saudi Quran TV: Watch live!"
 		},
 
 		{
@@ -121,8 +121,8 @@
 			"tags": ["live", "tv", "saudi", "quran", "medina"],
 			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-SaudiSunnahChannel-800x450.png",
 			"releaseDate": "2021-08-01",
-			"shortDescription": "Saudi Sunnah Channel: Watch live!",
-			"longDescription": "Saudi Sunnah Channel provides live webcam scenes of Medina."
+			"shortDescription": "Saudi Sunnah Channel provides live webcam scenes of Medina.",
+			"longDescription": "Saudi Sunnah Channel: Watch live!"
 		},
 
 		{
@@ -141,8 +141,8 @@
 			"tags": ["live", "tv", "koweit", "ktv1"],
 			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-KuwaitTV1-800x450.png",
 			"releaseDate": "2021-08-01",
-			"shortDescription": "Koweit TV (KTV1): Watch live!",
-			"longDescription": "KTV1 is the national television channel of Koweit."
+			"shortDescription": "KTV1 is the national television channel of Koweit.",
+			"longDescription": "Koweit TV (KTV1): Watch live!"
 		},
 
 		{
@@ -161,8 +161,8 @@
 			"tags": ["live", "tv", "libya", "wataniya"],
 			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-LibyaAlWataniya-800x450.png",
 			"releaseDate": "2021-08-01",
-			"shortDescription": "Libya Al Wataniya TV: Watch live!",
-			"longDescription": "Al Wataniya TV is the national television channel of Libya."
+			"shortDescription": "Al Wataniya TV is the national television channel of Libya.",
+			"longDescription": "Libya Al Wataniya TV: Watch live!"
 		},
 
 		{
@@ -181,8 +181,8 @@
 			"tags": ["live", "tv", "saudi", "ekhbariya"],
 			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-SaudiAlEkhbariya-800x450.png",
 			"releaseDate": "2021-08-01",
-			"shortDescription": "Saudi Al Ekhbariya: Watch live!",
-			"longDescription": "Al Ekhbariya is the Saudi Arabia news and current affairs TV channel based in Riyadh, KSA."
+			"shortDescription": "Al Ekhbariya is the Saudi Arabia news and current affairs TV channel based in Riyadh, KSA.",
+			"longDescription": "Saudi Al Ekhbariya: Watch live!"
 		},
 
 		{
@@ -201,8 +201,8 @@
 			"tags": ["live", "tv", "sharjah", "uae"],
 			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-SharjahTV-800x450.png",
 			"releaseDate": "2023-10-01",
-			"shortDescription": "Sharjah TV: Watch live!",
-			"longDescription": "Sharjah TV is the national television channel from the emirate of Sharjah, UAE."
+			"shortDescription": "Sharjah TV is the national television channel from the emirate of Sharjah, UAE.",
+			"longDescription": "Sharjah TV: Watch live!"
 		},
 
 		{
@@ -221,8 +221,8 @@
 			"tags": ["live", "tv", "kuwait", "akhbar", "ktv2"],
 			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-KuwaitTVAlAkhbar-800x450.png",
 			"releaseDate": "2023-10-01",
-			"shortDescription": "Kuwait TV Al Akhbar (KTV2): Watch live!",
-			"longDescription": "Koweit TV Al Akhbar is the state run international news coverage channel"
+			"shortDescription": "Kuweit TV Al Akhbar is the state run international news coverage channel.",
+			"longDescription": "Kuwait TV Al Akhbar (KTV2): Watch live!"
 		}
 	],
 
@@ -243,8 +243,8 @@
 			"tags": ["promo"],
 			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-Arabsat-800x450.png",
 			"releaseDate": "2021-08-01",
-			"shortDescription": "Discover Global Arabic+ by Arabsat",
-			"longDescription": "Thanks Global Arabic+, Arabsat's bouquet of live TV channels for Internet, you can stay in touch with TV channels from the arabic from everywhere, on any device."
+			"shortDescription": "Thanks Global Arabic+, Arabsat's bouquet of live TV channels for Internet, you can stay in touch with TV channels from the arab world from everywhere, on any device.",
+			"longDescription": "Discover Global Arabic+ by Arabsat."
 		}
 	]
 }
