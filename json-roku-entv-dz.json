@@ -33,7 +33,7 @@
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
-					"url": "https://games2.elahmad.online/tv746_www.elahmad.com_alegria_111/index.m3u8?token=9174a3c2995781ff8dd64362efc67f41412a899a-c0ecc3bdf73711d1a86776a9f771066a-1749838618-1749827818"
+					"url": "https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8"
 				}],
 				"duration": 0
 			},
