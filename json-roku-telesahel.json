@@ -1,7 +1,7 @@
 {
-	"providerName": "ORTN",
+	"providerName": "RTN - Radio Television du Niger",
 	"language": "fr-FR",
-	"lastUpdated": "2021-08-20T14:52:00.000Z",
+	"lastUpdated": "2025-09-10T11:11:00.000Z",
 
 	"liveFeeds": [
 
@@ -22,7 +22,7 @@
 			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-ORTN-TeleSahel-800x450.png",
 			"releaseDate": "2021-08-01",
 			"shortDescription": "Tele Sahel: Voir le direct !",
-			"longDescription": "Tele Sahel est la chaine nationale du Niger editee par l'ORTN."
+			"longDescription": "Tele Sahel est la chaine nationale du Niger editee par la RTN."
 		},
 
 		{
@@ -42,7 +42,7 @@
 			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-ORTN-VoixDuSahel-800x450.png",
 			"releaseDate": "2021-08-01",
 			"shortDescription": "Radio Voix du Sahel: Ecouter le direct !",
-			"longDescription": "Radio Voix du Sahel est la radio nationale du Niger editee par l'ORTN."
+			"longDescription": "Radio Voix du Sahel est la radio nationale du Niger editee par la RTN."
 		}
 
 	]
