@@ -1,7 +1,7 @@
 {
-	"providerName": "RTC",
+	"providerName": "RTC - Radiodiffusion Télévision Congolaise (Rep. du Congo)",
 	"language": "fr-FR",
-	"lastUpdated": "2021-08-20T15:06:00.000Z",
+	"lastUpdated": "2025-09-11T11:11:00.000Z",
 
 	"liveFeeds": [
 
@@ -13,7 +13,7 @@
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
-					"url": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/congo_tv/hls_video_token/index.m3u8"
+					"url": "http://trn03.bozztv.com/gin-telecongo/index.m3u8"
 				}],
 				"duration": 0
 			},
@@ -22,7 +22,7 @@
 			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-RTC-TeleCongo-800x450.png",
 			"releaseDate": "2021-08-01",
 			"shortDescription": "Tele Congo: Voir le direct !",
-			"longDescription": "Tele Congo est la chaine nationale du Congo editee par la RTC."
+			"longDescription": "Tele Congo est la chaine nationale de la Republique du Congo, editee par la RTC depuis Brazzaville."
 		},
 
 		{
@@ -33,8 +33,7 @@
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
-					"url_ori": "https://demo.mdb.cdn.orange.com/gc/live/ramdisk/la_voix_du_sahel/radio_hls/index.m3u8",
-					"url":     "https://mobiletv-gc.github.io/webstatic/hls_radio_congo.m3u8"
+					"url":     "https://mobiletv-gc.github.io/webstatic/RadioCongo.m4a"
 				}],
 				"duration": 0
 			},
@@ -43,7 +42,7 @@
 			"thumbnail": "http://www.mesbouquets.tv/static/image/logo-RTC-RadioCongo-800x450.png",
 			"releaseDate": "2021-08-01",
 			"shortDescription": "Radio Congo: Ecouter le direct !",
-			"longDescription": "Radio Congo est la radio nationale du Congo editee par la RTC."
+			"longDescription": "Radio Congo est la radio nationale du Republique du Congo, editee par la RTC depuis Brazzaville."
 		}
 
 	]
