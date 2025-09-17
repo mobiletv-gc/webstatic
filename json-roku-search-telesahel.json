@@ -48,6 +48,30 @@
         {
           "source": "USA_PR",
           "value":  "TVPG"
+        },
+		{
+          "source": "CPR",
+          "value":  "PG"
+        },
+		{
+          "source": "ACB",
+          "value":  "PG"
+        },
+		{
+          "source": "BBFC",
+          "value":  "PG"
+        },
+		{
+          "source": "CLASSIND",
+          "value":  "PG"
+        },
+		{
+          "source": "FSF",
+          "value":  "12"
+        },
+		{
+          "source": "RTC",
+          "value":  "B"
         }
       ],
       "images": [
