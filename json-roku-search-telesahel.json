@@ -1,0 +1,80 @@
+{
+  "version": "1",
+  "defaultLanguage": "en",
+  "defaultAvailabilityCountries": [
+    "ar", "at", "au", "bo", "br", "ca", "cl", "co", "cr", "de", "ec", "es", "fr", "gb", "gt", "hn", "ie", "mx", "ni", "pa", "pe", "sv", "us"
+  ],
+
+  "assets": [
+
+    {
+      "id": "ortn-channel01",
+      "type": "movie",
+      "titles": [
+        {
+          "value": "Tele Sahel",
+          "language": "en"
+        },
+		{
+          "value": "Tele Sahel",
+          "language": "fr"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Tele Sahel: watch live!",
+          "languages": ["en"]
+        },
+		{
+          "value": "Tele Sahel : Voir le direct !",
+          "languages": ["fr"]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "Tele Sahel is the national television channel of Niger, broadcast by RTN.",
+          "languages": ["en"]
+        },
+		{
+          "value": "Tele Sahel est la chaine nationale du Niger editee par la RTN.",
+          "languages": ["fr"]
+        }
+      ],
+      "releaseDate": "2020-01-17",
+      "genres": [
+        "live"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value":  "TVPG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "http://www.mesbouquets.tv/static/image/logo-ORTN-TeleSahel-800x450.png",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "durationInSeconds": 7200,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "sd",
+            "playId": "ortn-channel01",
+            "availabilityInfo": {
+              "country": [
+                "ar", "at", "au", "bo", "br", "ca", "cl", "co", "cr", "de", "ec", "es", "fr", "gb", "gt", "hn", "ie", "mx", "ni", "pa", "pe", "sv", "us"
+              ]
+            }
+          }
+        ]
+      }
+    }
+
+  ]
+}
