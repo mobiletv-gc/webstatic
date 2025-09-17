@@ -5,6 +5,7 @@
     "us"
   ],
   "assets": [
+
     {
       "id": "arabsat-channel01",
       "type": "movie",
@@ -60,6 +61,64 @@
           }
         ]
       }
+    },
+	
+    {
+      "id": "arabsat-channel02",
+      "type": "movie",
+      "titles": [
+        {
+          "value": "Sudan TV",
+          "language": "en"
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Sudan TV: watch live!",
+          "languages": ["en"]
+        }
+      ],
+      "longDescriptions": [
+        {
+          "value": "Sudan TV programming includes news, prayers, Quran recitation and a variety of entertainment.",
+          "languages": ["en"]
+        }
+      ],
+      "releaseDate": "2020-01-17",
+      "genres": [
+        "live"
+      ],
+      "advisoryRatings": [
+        {
+          "source": "USA_PR",
+          "value":  "TVPG"
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://www.mesbouquets.tv/static/image/logo-SudanTV-800x450.png",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "durationInSeconds": 7200,
+      "content": {
+        "playOptions": [
+          {
+            "license": "free",
+            "quality": "sd",
+            "playId": "arabsat-channel02",
+            "availabilityInfo": {
+              "country": [
+                "us"
+              ]
+            }
+          }
+        ]
+      }
     }
+
   ]
 }
