@@ -1,1 +1,29 @@
-aa
+{
+	"providerName": "AL24 News by ENTZ - al24news.dz",
+	"language": "en-US",
+	"lastUpdated": "2025-06-13T01:01:00+00:00",
+
+	"liveFeeds": [
+
+		{
+			"id": "entv-channel01",
+			"title": "AL24 News",
+			"content": {
+				"dateAdded": "2025-06-13T11:11:11+00:00",
+				"videos": [{
+					"quality": "SD",
+					"videoType": "HLS",
+					"url": "https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8"
+				}],
+				"duration": 0
+			},
+			"genres": ["news"],
+			"tags": ["live", "tv", "algerie", "algeria", "dz"],
+			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-ENTV01-800x450.png",
+			"releaseDate": "2025-06-01",
+			"longDescription": "AL24 News est la chaîne algérienne d’information en continu, éditée par ENTV et diffusée à partir d’Alger. AL24 News se focalise sur l’information nationale, ainsi que sur l’actualité internationale. On y retrouve l’actualité du jour, la politique, l’économie, la finance, l’entreprise, la santé, l’agriculture, la culture et le sport. www.al24news.dz",
+			"shortDescription": "AL24 News: Voire le direct!"
+		}
+	]
+
+}
