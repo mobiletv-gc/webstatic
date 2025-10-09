@@ -1,0 +1,64 @@
+{
+  "name": "Globecast",
+  "subtitle": "Globecast apps on AltStore",
+  "description": "Welcome to Globecast! Here you'll find all our apps for Apple devices delivered on AltStore.",
+  "iconURL": "https://www.mesbouquets.tv/static/image/logo-Globecast-black-240x240.png",
+  "website": "https://www.globecast.com",
+  "patreonURL": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "RTN Télé Sahel",
+      "bundleIdentifier": "com.globecast.tve.telesahel",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://www.mesbouquets.tv/static/image/logo-ORTN-TeleSahel-240x240.png",
+      "tintColor": "#6156e2",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Télé Congo",
+      "bundleIdentifier": "com.globecast.tve.telecongo",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://www.mesbouquets.tv/static/image/logo-RTC-TeleCongo-240x240.png",
+      "tintColor": "#6156e2",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Global Arabic+",
+      "bundleIdentifier": "com.globecast.tve.arabsat",
+      "developerName": "Globecast",
+      "subtitle": "Live TV from the arabic world",
+      "localizedDescription": "Watch live television from the arabic world.",
+      "iconURL": "https://www.mesbouquets.tv/static/image/logo-Arabsat-GAP-240x240.png",
+      "tintColor": "#6156e2",
+      "category": "photo-video",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
