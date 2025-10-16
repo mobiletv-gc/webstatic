@@ -13,7 +13,8 @@
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
-					"url": "https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8"
+					"url-alt": "https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8",
+					"url": "https://mobiletv-gc.github.io/webstatic/comingsoon-720p.mp4"
 				}],
 				"duration": 0
 			},
