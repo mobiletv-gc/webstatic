@@ -1,12 +1,12 @@
 {
 	"providerName": "Global Arabic+ - Live TV bouquet by Arabsat",
 	"language": "en-US",
-	"lastUpdated": "2025-09-05T01:01:00+00:00",
+	"lastUpdated": "2026-01-15T01:01:00+00:00",
 
 	"liveFeeds": [
 
 		{
-			"id": "arabsat-channel01",
+			"id": "arabsat-channel01-cdn-ora",
 			"title": "Palestine Satellite Channel",
 			"content": {
 				"dateAdded": "2021-08-01T22:29:16+00:00",
@@ -26,7 +26,7 @@
 		},
 
 		{
-			"id": "arabsat-channel02",
+			"id": "arabsat-channel02-cdn-ora",
 			"title": "Sudan TV",
 			"content": {
 				"dateAdded": "2021-08-01T12:12:15+00:00",
@@ -46,7 +46,7 @@
 		},
 
 		{
-			"id": "arabsat-channel03",
+			"id": "arabsat-channel03-cdn-ora",
 			"title": "Oman TV",
 			"content": {
 				"dateAdded": "2021-08-01T12:12:14+00:00",
@@ -66,7 +66,7 @@
 		},
 
 		{
-			"id": "arabsat-channel04",
+			"id": "arabsat-channel04-cdn-ora",
 			"title": "Saudi TV 1 (KSA1)",
 			"content": {
 				"dateAdded": "2021-08-01T12:12:13+00:00",
@@ -86,7 +86,7 @@
 		},
 
 		{
-			"id": "arabsat-channel05",
+			"id": "arabsat-channel05-cdn-ora",
 			"title": "Saudi Quran TV",
 			"content": {
 				"dateAdded": "2021-08-01T12:12:12+00:00",
@@ -106,7 +106,7 @@
 		},
 
 		{
-			"id": "arabsat-channel06",
+			"id": "arabsat-channel06-cdn-ora",
 			"title": "Saudi Sunnah Channel",
 			"content": {
 				"dateAdded": "2021-08-01T12:12:11+00:00",
@@ -126,7 +126,7 @@
 		},
 
 		{
-			"id": "arabsat-channel07",
+			"id": "arabsat-channel07-cdn-ora",
 			"title": "Koweit TV (KTV1)",
 			"content": {
 				"dateAdded": "2021-08-01T12:12:10+00:00",
@@ -146,7 +146,7 @@
 		},
 
 		{
-			"id": "arabsat-channel09",
+			"id": "arabsat-channel09-cdn-ora",
 			"title": "Libya Al Wataniya TV",
 			"content": {
 				"dateAdded": "2021-08-01T12:12:09+00:00",
@@ -166,7 +166,7 @@
 		},
 
 		{
-			"id": "arabsat-channel10",
+			"id": "arabsat-channel10-cdn-ora",
 			"title": "Saudi Al Ekhbariya",
 			"content": {
 				"dateAdded": "2021-08-01T12:12:08+00:00",
@@ -186,7 +186,7 @@
 		},
 
 		{
-			"id": "arabsat-channel11",
+			"id": "arabsat-channel11-cdn-ora",
 			"title": "Sharjah TV",
 			"content": {
 				"dateAdded": "2021-08-01T12:12:07+00:00",
@@ -206,8 +206,231 @@
 		},
 
 		{
-			"id": "arabsat-channel12",
+			"id": "arabsat-channel12-cdn-ora",
 			"title": "Kuwait TV Al Akhbar (KTV2)",
+			"content": {
+				"dateAdded": "2021-08-01T12:12:06+00:00",
+				"videos": [{
+					"quality": "SD",
+					"videoType": "HLS",
+					"url": "https://cdn-globecast.akamaized.net/live/eds/ktv_al_akhbar/hls_roku/ktv_al_akhbar.m3u8"
+				}],
+				"duration": 0
+			},
+			"genres": ["news"],
+			"tags": ["live", "tv", "kuwait", "akhbar", "ktv2"],
+			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-KuwaitTVAlAkhbar-800x450.png",
+			"releaseDate": "2023-10-01",
+			"longDescription": "Kuweit TV Al Akhbar is the state run international news coverage channel.",
+			"shortDescription": "Kuwait TV Al Akhbar (KTV2): Watch live!"
+		}
+	],
+
+	"liveFeedsAlt": [
+
+		{
+			"id": "arabsat-channel01",
+			"title": "Palestine Satellite Channel (alt)",
+			"content": {
+				"dateAdded": "2021-08-01T22:29:16+00:00",
+				"videos": [{
+					"quality": "SD",
+					"videoType": "HLS",
+					"url": "https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8"
+				}],
+				"duration": 0
+			},
+			"genres": ["news"],
+			"tags": ["live", "tv", "palestine"],
+			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-PalestineTV-800x450.png",
+			"releaseDate": "2021-08-01",
+			"longDescription": "Palestine Satellite Channel is part of the Palestinian Broadcasting Corporation.",
+			"shortDescription": "Palestine Satellite Channel: Watch live!"
+		},
+
+		{
+			"id": "arabsat-channel02",
+			"title": "Sudan TV (alt)",
+			"content": {
+				"dateAdded": "2021-08-01T12:12:15+00:00",
+				"videos": [{
+					"quality": "SD",
+					"videoType": "HLS",
+					"url": "https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8"
+				}],
+				"duration": 0
+			},
+			"genres": ["news"],
+			"tags": ["live", "tv", "sudan"],
+			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-SudanTV-800x450.png",
+			"releaseDate": "2021-08-01",
+			"longDescription": "Sudan TV programming includes news, prayers, Quran recitation and a variety of entertainment.",
+			"shortDescription": "Sudan TV: Watch live!"
+		},
+
+		{
+			"id": "arabsat-channel03",
+			"title": "Oman TV (alt)",
+			"content": {
+				"dateAdded": "2021-08-01T12:12:14+00:00",
+				"videos": [{
+					"quality": "SD",
+					"videoType": "HLS",
+					"url": "https://cdn-globecast.akamaized.net/live/eds/oman_tv/hls_roku/index.m3u8"
+				}],
+				"duration": 0
+			},
+			"genres": ["news"],
+			"tags": ["live", "tv", "oman"],
+			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-OmanTV-800x450.png",
+			"releaseDate": "2021-08-01",
+			"longDescription": "Oman TV is the national television channel in Sultanate of Oman broadcasting from the city of Muscat.",
+			"shortDescription": "Oman TV: Watch live!"
+		},
+
+		{
+			"id": "arabsat-channel04",
+			"title": "Saudi TV 1 (KSA1) (alt)",
+			"content": {
+				"dateAdded": "2021-08-01T12:12:13+00:00",
+				"videos": [{
+					"quality": "SD",
+					"videoType": "HLS",
+					"url": "https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/index.m3u8"
+				}],
+				"duration": 0
+			},
+			"genres": ["news"],
+			"tags": ["live", "tv", "saudi", "arabia", "ksa"],
+			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-SaudiTVChannel1KSA-800x450.png",
+			"releaseDate": "2021-08-01",
+			"longDescription": "Saudi TV Channel 1 (KSA1) offers cultural, political, and economic shows and runs religious programs.",
+			"shortDescription": "Saudi TV 1: Watch live!"
+		},
+
+		{
+			"id": "arabsat-channel05",
+			"title": "Saudi Quran TV (alt)",
+			"content": {
+				"dateAdded": "2021-08-01T12:12:12+00:00",
+				"videos": [{
+					"quality": "SD",
+					"videoType": "HLS",
+					"url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8"
+				}],
+				"duration": 0
+			},
+			"genres": ["news"],
+			"tags": ["live", "tv", "saudi", "quran"],
+			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-SaudiQuranTV-800x450.png",
+			"releaseDate": "2021-08-01",
+			"longDescription": "Saudi Quran TV is state run and administered by the Ministry of Culture and Information.",
+			"shortDescription": "Saudi Quran TV: Watch live!"
+		},
+
+		{
+			"id": "arabsat-channel06",
+			"title": "Saudi Sunnah Channel (alt)",
+			"content": {
+				"dateAdded": "2021-08-01T12:12:11+00:00",
+				"videos": [{
+					"quality": "SD",
+					"videoType": "HLS",
+					"url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8"
+				}],
+				"duration": 0
+			},
+			"genres": ["news"],
+			"tags": ["live", "tv", "saudi", "quran", "medina"],
+			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-SaudiSunnahChannel-800x450.png",
+			"releaseDate": "2021-08-01",
+			"longDescription": "Saudi Sunnah Channel provides live webcam scenes of Medina.",
+			"shortDescription": "Saudi Sunnah Channel: Watch live!"
+		},
+
+		{
+			"id": "arabsat-channel07",
+			"title": "Koweit TV (KTV1) (alt)",
+			"content": {
+				"dateAdded": "2021-08-01T12:12:10+00:00",
+				"videos": [{
+					"quality": "SD",
+					"videoType": "HLS",
+					"url": "https://cdn-globecast.akamaized.net/live/eds/kuwait_tv1/hls_roku/index.m3u8"
+				}],
+				"duration": 0
+			},
+			"genres": ["news"],
+			"tags": ["live", "tv", "koweit", "ktv1"],
+			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-KuwaitTV1-800x450.png",
+			"releaseDate": "2021-08-01",
+			"longDescription": "KTV1 is the national television channel of Koweit.",
+			"shortDescription": "Koweit TV (KTV1): Watch live!"
+		},
+
+		{
+			"id": "arabsat-channel09",
+			"title": "Libya Al Wataniya TV (alt)",
+			"content": {
+				"dateAdded": "2021-08-01T12:12:09+00:00",
+				"videos": [{
+					"quality": "SD",
+					"videoType": "HLS",
+					"url": "https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8"
+				}],
+				"duration": 0
+			},
+			"genres": ["news"],
+			"tags": ["live", "tv", "libya", "wataniya"],
+			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-LibyaAlWataniya-800x450.png",
+			"releaseDate": "2021-08-01",
+			"longDescription": "Al Wataniya TV is the national television channel of Libya.",
+			"shortDescription": "Libya Al Wataniya TV: Watch live!"
+		},
+
+		{
+			"id": "arabsat-channel10",
+			"title": "Saudi Al Ekhbariya (alt)",
+			"content": {
+				"dateAdded": "2021-08-01T12:12:08+00:00",
+				"videos": [{
+					"quality": "SD",
+					"videoType": "HLS",
+					"url": "https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8"
+				}],
+				"duration": 0
+			},
+			"genres": ["news"],
+			"tags": ["live", "tv", "saudi", "ekhbariya"],
+			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-SaudiAlEkhbariya-800x450.png",
+			"releaseDate": "2021-08-01",
+			"longDescription": "Al Ekhbariya is the Saudi Arabia news and current affairs TV channel based in Riyadh, KSA.",
+			"shortDescription": "Saudi Al Ekhbariya: Watch live!"
+		},
+
+		{
+			"id": "arabsat-channel11",
+			"title": "Sharjah TV (alt)",
+			"content": {
+				"dateAdded": "2021-08-01T12:12:07+00:00",
+				"videos": [{
+					"quality": "SD",
+					"videoType": "HLS",
+					"url": "https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8"
+				}],
+				"duration": 0
+			},
+			"genres": ["news"],
+			"tags": ["live", "tv", "sharjah", "uae"],
+			"thumbnail": "https://www.mesbouquets.tv/static/image/logo-SharjahTV-800x450.png",
+			"releaseDate": "2023-10-01",
+			"longDescription": "Sharjah TV is the national television channel from the emirate of Sharjah, UAE.",
+			"shortDescription": "Sharjah TV: Watch live!"
+		},
+
+		{
+			"id": "arabsat-channel12",
+			"title": "Kuwait TV Al Akhbar (KTV2) (alt)",
 			"content": {
 				"dateAdded": "2021-08-01T12:12:06+00:00",
 				"videos": [{
