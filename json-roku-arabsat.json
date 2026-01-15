@@ -7,7 +7,7 @@
 
 		{
 			"id": "arabsat-channel01-cdn-ora",
-			"title": "Palestine Satellite Channel",
+			"title": "Palestine Satellite Channel (*)",
 			"content": {
 				"dateAdded": "2021-08-01T22:29:16+00:00",
 				"videos": [{
@@ -226,7 +226,7 @@
 		}
 	],
 
-	"liveFeedsAlt": [
+	"movies": [
 
 		{
 			"id": "arabsat-channel01",
@@ -446,10 +446,8 @@
 			"releaseDate": "2023-10-01",
 			"longDescription": "Kuweit TV Al Akhbar is the state run international news coverage channel.",
 			"shortDescription": "Kuwait TV Al Akhbar (KTV2): Watch live!"
-		}
-	],
+		},
 
-	"movies": [
 		{
 			"id": "arabsat-tve-promoclip",
 			"title": "Global Arabic+ promo clip",
