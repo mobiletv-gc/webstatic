@@ -13,7 +13,8 @@
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
-					"url": "https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8"
+					"url-alt": "https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8",
+					"url": "https://live.arabsat-gcast.cdb.cdn.orange.com/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8"
 				}],
 				"duration": 0
 			},
@@ -33,7 +34,8 @@
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
-					"url": "https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8"
+					"url-alt": "https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8",
+					"url": "https://live.arabsat-gcast.cdb.cdn.orange.com/live/eds/sudan_tv/hls_roku/index.m3u8"
 				}],
 				"duration": 0
 			},
@@ -53,7 +55,8 @@
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
-					"url": "https://cdn-globecast.akamaized.net/live/eds/oman_tv/hls_roku/index.m3u8"
+					"url-alt": "https://cdn-globecast.akamaized.net/live/eds/oman_tv/hls_roku/index.m3u8",
+					"url": "https://live.arabsat-gcast.cdb.cdn.orange.com/live/eds/oman_tv/hls_roku/index.m3u8"
 				}],
 				"duration": 0
 			},
@@ -73,7 +76,8 @@
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
-					"url": "https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/index.m3u8"
+					"url-alt": "https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/index.m3u8",
+					"url": "https://live.arabsat-gcast.cdb.cdn.orange.com/live/eds/saudi_tv/hls_roku/index.m3u8"
 				}],
 				"duration": 0
 			},
@@ -93,7 +97,8 @@
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
-					"url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8"
+					"url-alt": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8",
+					"url": "https://live.arabsat-gcast.cdb.cdn.orange.com/live/eds/saudi_quran/hls_roku/index.m3u8"
 				}],
 				"duration": 0
 			},
@@ -113,7 +118,8 @@
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
-					"url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8"
+					"url-alt": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8",
+					"url": "https://live.arabsat-gcast.cdb.cdn.orange.com/live/eds/saudi_sunnah/hls_roku/index.m3u8"
 				}],
 				"duration": 0
 			},
@@ -133,7 +139,8 @@
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
-					"url": "https://cdn-globecast.akamaized.net/live/eds/kuwait_tv1/hls_roku/index.m3u8"
+					"url-alt": "https://cdn-globecast.akamaized.net/live/eds/kuwait_tv1/hls_roku/index.m3u8",
+					"url": "https://live.arabsat-gcast.cdb.cdn.orange.com/live/eds/kuwait_tv1/hls_roku/index.m3u8"
 				}],
 				"duration": 0
 			},
@@ -153,7 +160,8 @@
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
-					"url": "https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8"
+					"url-alt": "https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8",
+					"url": "https://live.arabsat-gcast.cdb.cdn.orange.com/live/eds/libya_al_watanya/hls_roku/index.m3u8"
 				}],
 				"duration": 0
 			},
@@ -173,7 +181,8 @@
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
-					"url": "https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8"
+					"url-alt": "https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8",
+					"url": "https://live.arabsat-gcast.cdb.cdn.orange.com/live/eds/al_ekhbariya/hls_roku/index.m3u8"
 				}],
 				"duration": 0
 			},
@@ -193,7 +202,8 @@
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
-					"url": "https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8"
+					"url-alt": "https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8",
+					"url": "https://live.arabsat-gcast.cdb.cdn.orange.com/live/eds/sharjah_tv/hls_roku/index.m3u8"
 				}],
 				"duration": 0
 			},
@@ -213,7 +223,8 @@
 				"videos": [{
 					"quality": "SD",
 					"videoType": "HLS",
-					"url": "https://cdn-globecast.akamaized.net/live/eds/ktv_al_akhbar/hls_roku/ktv_al_akhbar.m3u8"
+					"url-alt": "https://cdn-globecast.akamaized.net/live/eds/ktv_al_akhbar/hls_roku/ktv_al_akhbar.m3u8",
+					"url": "https://live.arabsat-gcast.cdb.cdn.orange.com/live/eds/ktv_al_akhbar/hls_roku/ktv_al_akhbar.m3u8"
 				}],
 				"duration": 0
 			},
